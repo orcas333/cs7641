@@ -1,4 +1,4 @@
-Code for this project is located at 
+Code for this project is located at https://github.com/orcas333/cs7641/tree/master/hw1
 
 To run the code, first install the /code/requirements.txt file with pip 19.0 or above. 
 
