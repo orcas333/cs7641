@@ -7,3 +7,5 @@ To generate results for the analysis of algorithm performance on each of the thr
 To generate results for the neural network with RO algorithms, run NN_GA.py, NN_RHC.py, or NN_SA.py respectively.
 
 Controls for each script are contained in the “__main__” section. Output for each script will be dumped into the /outputs folder.
+
+Attribution: ABAGAIL -- https://github.com/pushkar/ABAGAIL and Jonathan Tay's github: https://github.com/JonathanTay/CS-7641-assignment-2
